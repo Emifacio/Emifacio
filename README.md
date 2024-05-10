@@ -14,14 +14,14 @@ autonomously managing projects and collaborating effectively within teams.
 Ready to take on diverse projects, I am dedicated to advancing my career in
 software development. :mechanical_arm: </p>
 
-<p>In 2022 I get into technologies like Java/Springboot, MySQL, React, Docker and more by the hand of Argentina Programa. A federal plan to instruct people and conect them with professionals of IT industry :computer:</p>
+<p>From 2022 I am getting into technologies like Java/Springboot, MySQL, React, Docker and more. :computer:</p>
 
 <h3>:nerd_face: Some of the technologies I know.</h3>
 <hr>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="Javascript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt ="Bootstrap" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="CSS" width="40" height="40">
-<img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt ="GIT" width="40" height="40"> 
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt ="github" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt ="HTML" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt ="MySQL" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt ="NodeJs" width="40" height="40">
