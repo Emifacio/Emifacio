@@ -5,9 +5,16 @@
 <h3>Basics about me. :cowboy_hat_face:</h3>
 <hr>
 
-<p>I started coding in 2022 when I get interested in a javaFullStack course. Never stoped learning since then. :mechanical_arm: </p>
+<p>I am a highly skilled software developer, adept in designing, implementing,
+testing, and maintaining robust software systems. With a relentless passion for
+learning and innovation, I thrive on tackling new technological challenges. My
+expertise spans across multiple platforms, programming languages, and
+embedded systems. Committed to delivering cutting-edge solutions, I excel in
+autonomously managing projects and collaborating effectively within teams.
+Ready to take on diverse projects, I am dedicated to advancing my career in
+software development. :mechanical_arm: </p>
 
-<p>In 2022 I get into technologies like Java/Springboot, MySQL, Javascript, and more by the hand of Argentina Programa. A federal plan to instruct people and conect them with professionals of IT industry :computer:</p>
+<p>In 2022 I get into technologies like Java/Springboot, MySQL, React, Docker and more by the hand of Argentina Programa. A federal plan to instruct people and conect them with professionals of IT industry :computer:</p>
 
 <h3>:nerd_face: Some of the technologies I know.</h3>
 <hr>
