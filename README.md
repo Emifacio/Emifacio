@@ -14,8 +14,6 @@ autonomously managing projects and collaborating effectively within teams.
 Ready to take on diverse projects, I am dedicated to advancing my career in
 software development. :mechanical_arm: </p>
 
-<p>From 2022 I am getting into technologies like Java/Springboot, MySQL, React, Docker and more. :computer:</p>
-
 <h3>:nerd_face: Some of the technologies I know.</h3>
 <hr>
 <p align="center">
