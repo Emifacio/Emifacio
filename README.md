@@ -12,7 +12,16 @@ expertise spans across multiple platforms, programming languages, and
 embedded systems. Committed to delivering cutting-edge solutions, I excel in
 autonomously managing projects and collaborating effectively within teams.
 Ready to take on diverse projects, I am dedicated to advancing my career in
-software development. :mechanical_arm: </p>
+software development. :mechanical_arm: 
+
+• Soy un apasionado desarrollador de software, con experiencia en diseño, codificación, instalación, pruebas, empaquetado y mantenimiento de sistemas de software.
+• Cada día, es un día de mejora, que sumo a mi desarrollo como persona y como programador-bilingüe.
+• He demostrado repetidamente, el dominio del aprendizaje de nuevas habilidades y conocimientos en tiempo récord.
+• Indago, me informo y pruebo las nuevas tecnologías y nuevas herramientas en búsqueda de ofrecer un mejor producto, de mayor calidad, en un menor tiempo.
+• Poseo dominio de variadas plataformas, lenguajes y sistemas integrados.
+• Elaboro y auto-gestiono eficazmente robustos proyectos independientes. :mechanical_arm: 
+</p>
+
 
 <h3>:nerd_face: Some of the technologies I know.</h3>
 <hr>
