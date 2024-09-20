@@ -5,22 +5,22 @@
 <h3>Basics about me. :cowboy_hat_face:</h3>
 <hr>
 
-<p>I am a highly skilled software developer, adept in designing, implementing,
-testing, and maintaining robust software systems. With a relentless passion for
-learning and innovation, I thrive on tackling new technological challenges. My
-expertise spans across multiple platforms, programming languages, and
-embedded systems. Committed to delivering cutting-edge solutions, I excel in
-autonomously managing projects and collaborating effectively within teams.
-Ready to take on diverse projects, I am dedicated to advancing my career in
-software development. :mechanical_arm: 
-<br>
-<br>
-• Soy un apasionado desarrollador de software, con experiencia en diseño, codificación, instalación, pruebas, empaquetado y mantenimiento de sistemas de software.<br>
-• Cada día, es un día de mejora, que sumo a mi desarrollo como persona y como programador-bilingüe.<br>
-• He demostrado repetidamente el dominio del aprendizaje de nuevas habilidades y conocimientos en tiempo récord.<br>
-• Indago, me informo y pruebo las nuevas tecnologías y nuevas herramientas en búsqueda de ofrecer un mejor producto, de mayor calidad, en un menor tiempo.<br>
-• Poseo dominio de variadas plataformas, lenguajes y sistemas integrados.<br>
-• Elaboro y auto-gestiono eficazmente robustos proyectos independientes. :mechanical_arm: 
+<p>Collaboration and Proactivity
+I stand out for my ability to collaborate and complement the team's work proactively. My responses are quick and precise, thanks to my advanced information management mechanisms, known as my "second brain" or "digital brain."
+
+Passion for Software Development
+I am a passionate software developer with experience in designing, coding, installing, testing, packaging, and maintaining systems. Every day, I choose to take the next step toward improving and growing professionally as a bilingual programmer.
+
+Learning and Adaptability
+I have repeatedly demonstrated my ability to learn new skills and knowledge in record time. I stay informed and test new technologies and tools to offer higher quality products in less time.
+
+Under pressure performance
+I excel in maintaining intense concentration and unwavering commitment, even under pressure, consistently delivering high-quality results with speed and precision. My strong dedication to meeting deadlines is paired with a goal-oriented mindset, and I possess laser-sharp focus in demanding situations. 
+
+Innovative Thinking
+I think in a circular manner and use methods to find disruptive and innovative solutions, always oriented towards positive results. These solutions are aligned with the principles that unite us as a group, and I strive to build positive relationships that contribute to organizational success.
+
+Are you interested in Front-End development, automation, and customer engagement experiences? Let's connect!
 </p>
 
 
