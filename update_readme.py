@@ -75,12 +75,12 @@ def update_readme(username):
     readme = readme.replace('{languages_and_tools}', languages_and_tools)
 
     # Replace these with actual usernames or leave them as is if not available
-    readme = readme.replace('{linkedin_username}', 'your-linkedin-username')
-    readme = readme.replace('{twitter_username}', 'your-twitter-username')
+    readme = readme.replace('{linkedin_username}', 'Emifacio')
+    readme = readme.replace('{twitter_username}', '@EmilianoFacio77')
 
     with open('README.md', 'w') as file:
         file.write(readme)
 
 if __name__ == "__main__":
-    github_username = os.environ.get('GITHUB_ACTOR', 'your-github-username')
+    github_username = os.environ.get('GITHUB_ACTOR', 'Emifacio')
     update_readme(github_username)
