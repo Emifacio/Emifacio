@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Emiliano Facio.</h1>
 
-<h2 align="center">I'm a full stack developer based in Argentina :argentina:</h2>
+<h2 align="center">I'm a Web Developer based in Argentina :argentina:</h2>
 
 <h3>Basics about me. :cowboy_hat_face:</h3>
 <hr>
