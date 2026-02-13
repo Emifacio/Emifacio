@@ -20,7 +20,7 @@ I excel in maintaining intense concentration and unwavering commitment, even und
 Innovative Thinking
 I think in a circular manner and use methods to find disruptive and innovative solutions, always oriented towards positive results. These solutions are aligned with the principles that unite us as a group, and I strive to build positive relationships that contribute to organizational success.
 
-Are you interested in Front-End development, automation, and customer engagement experiences? Let's connect!
+Are you interested in Front or Back-End development, automation, and customer engagement experiences? Let's connect!
 </p>
 
 
