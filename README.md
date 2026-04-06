@@ -1,64 +1,53 @@
 <h1 align="center">Hi there 👋, I'm Emiliano Facio.</h1>
 
-<h2 align="center">I'm a Web Developer based in Argentina :argentina:</h2>
+<h2 align="center">Full-Stack Engineer specialized in data-leveraged products that make systems smarter and organizations better.</h2>
 
-<h3>Basics about me. :cowboy_hat_face:</h3>
-<hr>
-
-<p>Collaboration and Proactivity
-I stand out for my ability to collaborate and complement the team's work proactively. My responses are quick and precise, thanks to my advanced information management mechanisms, known as my "second brain" or "digital brain."
-
-Passion for Software Development
-I am a passionate software developer with experience in designing, coding, installing, testing, packaging, and maintaining systems. Every day, I choose to take the next step toward improving and growing professionally as a bilingual programmer.
-
-Learning and Adaptability
-I have repeatedly demonstrated my ability to learn new skills and knowledge in record time. I stay informed and test new technologies and tools to offer higher quality products in less time.
-
-Under pressure performance
-I excel in maintaining intense concentration and unwavering commitment, even under pressure, consistently delivering high-quality results with speed and precision. My strong dedication to meeting deadlines is paired with a goal-oriented mindset, and I possess laser-sharp focus in demanding situations. 
-
-Innovative Thinking
-I think in a circular manner and use methods to find disruptive and innovative solutions, always oriented towards positive results. These solutions are aligned with the principles that unite us as a group, and I strive to build positive relationships that contribute to organizational success.
-
-Are you interested in Front or Back-End development, automation, and customer engagement experiences? Let's connect!
-</p>
-
-
-<h3>:nerd_face: Some of the technologies I know.</h3>
-<hr>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="Javascript" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt ="Bootstrap" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="CSS" width="40" height="40">
-<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt ="github" width="40" height="40"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt ="HTML" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt ="MySQL" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt ="NodeJs" width="40" height="40">
-<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt ="PostMan" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt ="Maven" width="40" height="40">
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/210/original/java-logo-transparent-free-png.png" alt ="Java" width="40" height="40">
-  <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt ="Java" width="50" height="40">
+  <strong>Software Engineering @ Java & React Ecosystems | MIT Applied Data Science Alum</strong>
 </p>
 
-<p> :mailbox: You can reach me at: facio.gabrielemiliano@gmail.com</p>
-
-<h3>Follow me at :iphone:</h3>
 <hr>
-<p>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" ></a>
-  <a href="https://www.linkedin.com/in/emifacio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" ></a>
-  <a href="https://www.twitter.com/EmilianoFacio77" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png" width="30" height="30" ></a>
+
+### 🚀 The Engineering Mindset
+I build scalable, customer-facing applications by bridging the gap between **robust backend architecture** and **intelligent data insights**. My approach is defined by:
+
+* **Data-Leveraged Development:** Recently completed the **MIT Applied Data Science Program**, allowing me to integrate predictive modeling and advanced analytics into the full-stack lifecycle.
+* **Systems Thinking:** I don't just write code; I design systems. Whether it's Java microservices or React frontends, I optimize for scalability and impact.
+* **Digital Brain Workflow:** I utilize advanced information management (my "Second Brain") to accelerate learning cycles and deliver precise technical solutions in record time.
+* **High-Pressure Execution:** Focused on momentum and delivery. I thrive in demanding environments where laser-focus and goal-oriented engineering are required.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+#### **Core Engineering**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
 </p>
-<!--
-**emifacio/emifacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### **Data Science & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" alt="Postman" width="40" height="40">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Let's Connect
+I'm always open to discussing **data-driven automation**, **blockchain financial systems**, or **scalable cloud architecture**.
+
+* **Email:** [facio.gabrielemiliano@gmail.com](mailto:facio.gabrielemiliano@gmail.com)
+* **LinkedIn:** [linkedin.com/in/emifacio](https://www.linkedin.com/in/emifacio/)
+* **Twitter:** [@EmilianoFacio77](https://twitter.com/EmilianoFacio77)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/emifacio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"></a>
+  <a href="https://www.twitter.com/EmilianoFacio77" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png" width="30" height="30"></a>
+</p>
